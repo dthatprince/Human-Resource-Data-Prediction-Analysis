@@ -12,4 +12,3 @@ we are going to check the following:
 6. Prediction Analysis.
 
 
-You can can also see a similar work done using the R Language: https://github.com/Laurae2/HR_MiniApp
